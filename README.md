@@ -1,6 +1,6 @@
 # SAGA GIS completion
 
-This repository aims at providing command line completion files for saga_cmd as part of SAGA GIS. 
+This repository aims at providing command line completion files for saga_cmd from the [SAGA GIS project](https://sourceforge.net/projects/saga-gis/).   
 The use of completion speeds up writing complex command statements, reduces typing errors for parameters.
 
 ## Features
